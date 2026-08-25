@@ -1,16 +1,34 @@
-## Hi there 👋
+# Ivaylo Staykov
 
-<!--
-**i-staykov/i-staykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT-Systems Engineering student at [HPI](https://hpi.de/en/).
+Software Engineer Intern at [Taktile](https://taktile.com) - work account [@ivaylostaykov-work](https://github.com/ivaylostaykov-work).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [proj-nonlinear-lda](https://github.com/i-staykov/proj-nonlinear-lda) · Nonlinear LDA in a normalizing flow
+
+Train an invertible flow so that plain **linear** discriminant analysis, fit in the latent space `z = f(x)`,
+becomes a **nonlinear** classifier in `x`. Affine coupling layers from scratch; flow and class-conditional
+Gaussian base trained jointly by exact maximum likelihood. **0.855 → 0.962** test accuracy on two moons.
+
+`PyTorch` · `Normalizing Flows`
+
+### [proj-dl-ecg](https://github.com/i-staykov/proj-dl-ecg) · Interpretable ECG classification
+
+Ventricular arrhythmia detection on MIT-BIH under cost-sensitive learning, where missing a beat costs more
+than a false alarm. 1D-CNN against an MLP on an identical training loop: ventricular **F1 0.90 vs 0.62** at
+0.98 recall. Saliency maps show the CNN attending to the QRS complex. Two-person course project.
+
+`PyTorch` · `1D-CNN` · `Interpretability`
+
+### [proj-internet-digital-ark](https://github.com/i-staykov/proj-internet-digital-ark) · Reproducible evidence pipeline
+
+Historical domain names for 1996–2001, each backed by item-level, per-year evidence. Three verification
+tiers, from a 10-second integrity check to a full rebuild from the original sources; the shipped results
+rebuild **byte for byte** from the shipped evidence.
+
+`Python` · `Data Engineering`
+
+---
+
+**Python** · **C++** · **SQL** · PyTorch · NumPy · scikit-learn · pandas · FastAPI · PostgreSQL · Docker · AWS · IaC · CI/CD · Git
