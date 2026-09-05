@@ -5,6 +5,16 @@ Software Engineer Intern at [Taktile](https://taktile.com) - work account [@ivay
 
 ---
 
+### [proj-price-discovery](https://github.com/i-staykov/proj-price-discovery) · Price discovery after macro releases
+
+How fast does the market incorporate new public information? The **fraction of the eventual move**
+priced in after CPI and Employment Situation releases, estimated with a **Bayesian hierarchical
+model** on BTCUSDT — crypto trades through the release, so no session boundary to model.
+Preregistered analysis; tested calendar, ingestion and event-time alignment layers. A measurement
+study, not a trading strategy.
+
+`Python` · `Bayesian Inference`
+
 ### [proj-nonlinear-lda](https://github.com/i-staykov/proj-nonlinear-lda) · Nonlinear LDA in a normalizing flow
 
 Train an invertible flow so that plain **linear** discriminant analysis, fit in the latent space `z = f(x)`,
