@@ -9,7 +9,7 @@ Software Engineer Intern at [Taktile](https://taktile.com) - work account [@ivay
 
 How fast does the market incorporate new public information? The **fraction of the eventual move**
 priced in after CPI and Employment Situation releases, estimated with a **Bayesian hierarchical
-model** on BTCUSDT — crypto trades through the release, so no session boundary to model.
+model** on BTCUSDT.
 Preregistered analysis; tested calendar, ingestion and event-time alignment layers. A measurement
 study, not a trading strategy.
 
