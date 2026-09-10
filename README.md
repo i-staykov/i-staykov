@@ -1,7 +1,8 @@
 # Ivaylo Staykov
 
 IT-Systems Engineering student at [HPI](https://hpi.de/en/).
-Software Engineer Intern at [Taktile](https://taktile.com) - work account [@ivaylostaykov-work](https://github.com/ivaylostaykov-work).<br></p>
+Software Engineer Intern at [Taktile](https://taktile.com) - work account [@ivaylostaykov-work](https://github.com/ivaylostaykov-work).
+
 Check me out: [ivaylo.staykov.net](https://ivaylo.staykov.net/).
 
 ---
